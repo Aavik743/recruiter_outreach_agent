@@ -1,0 +1,35 @@
+# Credentials and secrets
+.env
+credentials.json
+gmail_token.json
+sheets_token.json
+
+# Personal data
+Abhik_Hore_Resume_2026.pdf
+data/master_resume.txt
+data/email_input.txt
+data/cover_letter_template.txt
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Windows artifacts
+nul
+Thumbs.db
+
+# Temp files (Claude Code working directory)
+tmpclaude-*/
+
+# Editor
+.vscode/
+.idea/
